@@ -11,3 +11,6 @@ This project is a simple C# console application that demonstrates various fundam
 5. **Loops**: Implements `while`, `do-while`, and `for` loops for various operations like loan payments and interest calculation.
 
 ---
+
+## Learn More in This Article
+https://thecodingheaven.com/posts/c-first-steps
