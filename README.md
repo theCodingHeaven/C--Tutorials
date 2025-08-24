@@ -14,7 +14,7 @@ This project is a simple C# console application that demonstrates various fundam
 
 ## Link to a video with explanation
 
-[YouTube Link](https://youtu.be/8oFwNYNlKVg?si=yWkaRA88Ier4ULRR)
+📍 [YouTube Link](https://youtu.be/8oFwNYNlKVg?si=yWkaRA88Ier4ULRR)
 
 ## Learn More in This Article
 https://thecodingheaven.com/posts/c-first-steps
